@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://master--warm-lolly-e4375f.netlify.app/](https://master--warm-lolly-e4375f.netlify.app/)
 
-- 💬 Ask me about **react , javaScript , Css , java , python**
+- 💬 Ask me about **react , javaScript , Css , java , Next js**
 
 - 📫 How to reach me **piyushshinde.199@gmail.com**
 
