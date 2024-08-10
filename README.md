@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Foodees App](https://github.com/Piyushshind/foodapp)
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **JWT**
 
 - 👨‍💻 All of my projects are available at [https://master--warm-lolly-e4375f.netlify.app/](https://master--warm-lolly-e4375f.netlify.app/)
 
