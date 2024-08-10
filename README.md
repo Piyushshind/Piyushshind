@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Foodees App](https://github.com/Piyushshind/foodapp)
+- 🔭 I’m currently working on [Symbiosis full stack](https://github.com/Piyushshind/Symbiosis-Capgemini-Java-Fullstack-Exercises.git)
 
 - 🌱 I’m currently learning **JWT**
 
