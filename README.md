@@ -10,6 +10,17 @@
   </a>
 </div>
 
+<!-- ===================== ACTION BUTTONS ===================== -->
+<div align="center">
+  <a href="https://piyush-portfolio2026.netlify.app/">
+    <img src="https://img.shields.io/badge/Live_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Piyushshind/Piyushshind/raw/main/Piyush_Shinde_Resume.pdf">
+    <img src="https://img.shields.io/badge/Download_Resume-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
+  </a>
+</div>
+
 <br/>
 
 <!-- ===================== ABOUT ===================== -->
@@ -96,11 +107,12 @@ const piyush: Developer = {
 | Project | Description | Tech |
 |---|---|---|
 | **Assisto HRMS** | Enterprise HRMS — onboarding, offboarding, PMS & reporting modules | React, TypeScript, Redux Toolkit, React Query, Tailwind |
+| 🌐 [**SuccessScript Services**](https://www.successscriptservices.com/) | **Freelance (UAE client)** — ATS resume builder & career platform (solo-delivered frontend) | React, TypeScript, Tailwind CSS |
 | **Video KYC Platform** | Real-time peer-to-peer video KYC with role-based dashboards | React, WebRTC, STOMP.js, Spring Boot |
 | **Liveliness Verification System** | Multi-factor e-KYC (facial landmarks, voice OTP, geolocation) | React, Flask, OpenCV, Librosa |
 | **CareerSphere** | Job-search & career-coaching SaaS with admin console | React, React Router, REST APIs |
 
-> 🌐 More projects live at **[my portfolio](https://master--warm-lolly-e4375f.netlify.app/)**
+> 🌐 More projects live at **[my portfolio](https://piyush-portfolio2026.netlify.app/)**
 
 <br/>
 
@@ -111,7 +123,7 @@ const piyush: Developer = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-shinde-lk)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shindepiyush.work@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4A00E0?style=for-the-badge&logo=netlify&logoColor=white)](https://master--warm-lolly-e4375f.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4A00E0?style=for-the-badge&logo=netlify&logoColor=white)](https://piyush-portfolio2026.netlify.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-handle)
 
 </div>
